@@ -6,7 +6,7 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-|Course Number| Course Title| Cool  | Instructor
+|Course Number| Course Title| Cool  | Instructor |
 | ------------- |:-------------:| -----:|
 | INFO 201     | Ethics | Freeman |
 | INFO 450      | Tech Foundations      |   Himma |
